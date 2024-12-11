@@ -4,3 +4,5 @@ input-example
 .bsp/
 .metals/
 .scala-build/
+
+.gitconfig
